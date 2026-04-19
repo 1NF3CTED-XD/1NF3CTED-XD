@@ -8,7 +8,8 @@
 <br>
 <div align="center">
   <a href="https://discord.com/users/1098070542554239086">
-    <img src="adc059be6cc05836e06e9c5f868c6e8b.jpg" width="50" alt="Link 1">
+    <img src="adc059be6cc05836e06e9c5f868c6e8b.jpg" width="50"
+       <p align="center"><br>Discord
   </a>&nbsp;&nbsp;
 </div>
 <br>
