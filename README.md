@@ -13,10 +13,13 @@
   </a>&nbsp;&nbsp;
 </div>
 <br>
+<div align="center">
+  <img width="512" height="512" alt="double-thumbs-up-emoji-blue" src="https://github.com/user-attachments/assets/0e97c0e6-88a3-4614-82d1-572179ddb211" />
+</div>
+
 <details>
 <summary>About Me</summary>
   1. U can call me Ran or Choki!
-  <br> 2. I'm a nonbinary pansexual
+  <br> 2. I'm a uhhh
   <br> 3. oke this is mainly for testing alr pls dont laugh
 
-STILL TESTING PLS DONT LAUGH
