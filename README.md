@@ -12,7 +12,7 @@
 <br>
 
 <details>
-<summary>About Me</summary>
+<summary>What is this bru</summary>
   1. hey follow my main guys
   <br> 2. oke im testing & learning things alr pls dont laugh
 
